@@ -1,1 +1,1 @@
-This is a test project for AUT COMP607
+This is a test project for AUT COMP papers only
